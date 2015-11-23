@@ -1,6 +1,6 @@
 {
     "name": "watermark-image",
-    "version": "1.0",
+    "version": "1.0.0",
     "title": "Watermark image",
     "author": {
         "name": "hientrung",
@@ -15,7 +15,6 @@
     "dependencies": {
         "highcharts": "2.3.0"
     },
-    "type": "plugin",
     "description": "Add config and render a image in center of chart for Highcharts.com (like as watermark)",
     "keywords": [
         "watermark",
