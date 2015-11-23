@@ -1,0 +1,25 @@
+{
+	"name": "Watermark",
+	"version": "1.0",
+	"title": "Watermark image",
+	"author": {
+		"name": "hientrung",
+		"url": "http://hientrung.github.io"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": ""
+		}
+	],
+	"dependencies": {
+		"highcharts": "",
+		"jquery": ""
+	},
+	"description": "Add config and render a image in center of chart for Highcharts.com (like as watermark)",
+	"keywords": [
+		"watermark",
+		"image"
+	],
+	"homepage": "http://hientrung.github.io/highcharts-watermark/",	
+}
