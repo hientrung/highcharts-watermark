@@ -1,25 +1,27 @@
 {
-	"name": "Watermark",
-	"version": "1.0",
-	"title": "Watermark image",
-	"author": {
-		"name": "hientrung",
-		"url": "http://hientrung.github.io"
-	},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "https://github.com/hientrung/highcharts-watermark/blob/master/LICENSE"
-		}
-	],
-	"dependencies": {
-		"highcharts": "2.3"
-	},
-	type: "plugin",
-	"description": "Add config and render a image in center of chart for Highcharts.com (like as watermark)",
-	"keywords": [
-		"watermark",
-		"image"
-	],
-	"homepage": "http://hientrung.github.io/highcharts-watermark/"	
+    "name": "Watermark",
+    "version": "1.0",
+    "title": "Watermark image",
+    "author": {
+        "name": "hientrung",
+        "url": "http://hientrung.github.io"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/hientrung/highcharts-watermark/blob/master/LICENSE"
+        }
+    ],
+    "dependencies": {
+        "highcharts": "2.3"
+    },
+    "type": "plugin",
+    "description": "Add config and render a image in center of chart for Highcharts.com (like as watermark)",
+    "keywords": [
+        "watermark",
+        "image"
+    ],
+    "demo": [
+        "http://hientrung.github.io/highcharts-watermark/"
+    ]
 }
