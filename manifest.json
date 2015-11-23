@@ -9,13 +9,13 @@
 	"licenses": [
 		{
 			"type": "MIT",
-			"url": ""
+			"url": "https://github.com/hientrung/highcharts-watermark/blob/master/LICENSE"
 		}
 	],
 	"dependencies": {
-		"highcharts": "",
-		"jquery": ""
+		"highcharts": "2.3",
 	},
+	type: "plugin",
 	"description": "Add config and render a image in center of chart for Highcharts.com (like as watermark)",
 	"keywords": [
 		"watermark",
