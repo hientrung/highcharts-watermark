@@ -13,7 +13,7 @@
         }
     ],
     "dependencies": {
-        "highcharts": "2.3"
+        "highcharts": "2.3.0"
     },
     "type": "plugin",
     "description": "Add config and render a image in center of chart for Highcharts.com (like as watermark)",
@@ -24,5 +24,8 @@
     "demo": [
         "http://hientrung.github.io/highcharts-watermark/"
     ],
-	"homepage": "http://hientrung.github.io/highcharts-watermark/"
+	"homepage": "https://github.com/hientrung/highcharts-watermark/",
+	"docs": "https://github.com/hientrung/highcharts-watermark/wiki/",        
+	"bugs": "https://github.com/hientrung/highcharts-watermark/issues/",
+	"download": "https://github.com/hientrung/highcharts-watermark/archive/master.zip"
 }
