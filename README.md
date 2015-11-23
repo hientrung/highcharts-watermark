@@ -3,7 +3,7 @@ Add config and render a image in center of chart for Highcharts.com (like as wat
 #Demo 
 http://hientrung.github.io/highcharts-watermark/
 #Config
-Add a config name 'wartermark' to option when create chart or use Highcharts.setOptions to set watermark is default 
+Add a config name 'watermark' to option when create chart or use Highcharts.setOptions to set watermark is default 
 
 Default: <br/>
 
